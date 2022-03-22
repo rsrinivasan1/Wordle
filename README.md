@@ -1,1 +1,3 @@
-# Wordle solver - making optimal guesses using information theory
+# Wordle solver
+
+Making optimal guesses using information theory
